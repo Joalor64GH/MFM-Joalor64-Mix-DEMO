@@ -1,0 +1,40 @@
+{
+	"storyName": "Sarvente and Ruvyzvat",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sarv",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Worship",
+			"sarvente-dark",
+			[
+				215,
+				95,
+				175
+			]
+		],
+		[
+			"Zavodila",
+			"ruv",
+			[
+				215,
+				195,
+				255
+			]
+		]
+	],
+	"weekName": "week7"
+}

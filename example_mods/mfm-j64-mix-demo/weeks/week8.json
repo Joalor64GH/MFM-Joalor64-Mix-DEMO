@@ -1,0 +1,31 @@
+{
+	"storyName": "Selever",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Casanova",
+			"selever",
+			[
+				155,
+				20,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sel",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week 8"
+}
